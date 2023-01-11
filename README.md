@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del modulo 2 del PreCourse Henry
+Prueba de como crear yn repositorio y clonarlo desde gibhub a mi pc
